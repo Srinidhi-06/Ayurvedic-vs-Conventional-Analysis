@@ -1,8 +1,15 @@
-# Ayurvedic-vs-Conventional-Analysis
+Ayurvedic-vs-Conventional-Analysis
 📌 Project Overview
 
 This project focuses on a comparative data science analysis between Ayurvedic medicine and Conventional (Allopathic) medicine.
-The key highlight of this work is that we created our own datasets manually and performed end-to-end data analytics to study effectiveness, public sentiment, and overall perception.
+
+The key highlight of this work is that:
+
+We created our own datasets manually
+
+Performed end-to-end data analytics
+
+Studied effectiveness, public sentiment, and overall perception
 
 Unlike typical projects that rely on ready-made datasets, this study is built entirely on real-world data collected from multiple platforms.
 
@@ -12,7 +19,7 @@ No public or pre-existing datasets were used
 
 Datasets were manually scraped and curated
 
-Data collected from:
+Data Sources
 
 Social media platforms (Twitter, YouTube comments)
 
@@ -42,7 +49,7 @@ Comparative statistical analysis
 
 Visualization of trends and insights
 
-Tools & Technologies Used:
+Tools & Technologies Used
 
 Python
 
@@ -51,3 +58,42 @@ Pandas, NumPy
 Matplotlib, Seaborn
 
 Basic NLP techniques
+
+📌 Notebook Structure
+
+Each notebook represents different stages of:
+
+Dataset preparation
+
+Individual analysis of Ayurvedic and Conventional medicine
+
+Comparative insights
+
+📈 Key Findings
+Ayurvedic Medicine
+
+Higher positive sentiment
+
+Fewer mentions of side effects
+
+Better acceptance for long-term usage
+
+Strong trust in natural treatment methods
+
+Conventional Medicine
+
+Faster short-term relief
+
+More frequent reports of side effects
+
+Higher dependency for chronic conditions
+
+✅ Conclusion
+
+📌 Based on data-driven analysis, Ayurvedic medicine showed better overall performance, particularly in terms of:
+
+Safety perception
+
+Long-term effectiveness
+
+User satisfaction
