@@ -7,7 +7,7 @@ The key highlight of this project is the creation of custom datasets through man
 The study is based entirely on real-world data and does not use any public or pre-existing datasets.
 
 ## Dataset Creation
-The datasets were manually scraped and curated from multiple online sources.
+The datasets were manually scraped and curated from multiple online sources. 
 
 ### Key Points
 - No public or pre-existing datasets were used
